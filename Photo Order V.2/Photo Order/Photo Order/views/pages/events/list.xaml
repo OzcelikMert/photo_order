@@ -1,0 +1,33 @@
+﻿<Page x:Class="Photo_Order.views.pages.events.list"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order.views.pages.events"
+      mc:Ignorable="d" Background="Transparent">
+    <StackPanel Margin="5,10,5,10">
+        <Grid Margin="0,0,0,10" >
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="100" Content="+ Yeni Ekle" Click="createNewClick" Style="{StaticResource createNew}"/>
+            <TextBlock Text="Arama: " HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,260,0" />
+            <TextBox HorizontalAlignment="Right" VerticalAlignment="Top" x:Name="search" KeyUp="searchEvent" Style="{StaticResource searchTextBox}"/>
+        </Grid>
+        <StackPanel Orientation="Horizontal" Style="{StaticResource customTable}">
+            <TextBlock Text="Resim" Width="75" TextAlignment="Center"/>
+            <TextBlock Text="Isim" Width="250" TextAlignment="Center" />
+            <TextBlock Text="Olusturma Tarihi" Width="150" TextAlignment="Center" />
+            <TextBlock Text="Duzenle" Width="100" TextAlignment="Center"/>
+            <TextBlock Text="Sil" Width="100" TextAlignment="Center" />
+        </StackPanel>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" MaxHeight="700">
+            <StackPanel Margin="10,0,0,15" x:Name="eventList">
+                <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                    <Image Height="60" Width="60" Stretch="Fill" />
+                    <TextBlock Text="Mert OZCELIK" VerticalAlignment="Center" Width="250" TextAlignment="Center"/>
+                    <TextBlock Text="15/05/2022" VerticalAlignment="Center" Width="150" TextAlignment="Center" />
+                    <Button Content="Duzenle" Height="30" Width="100" Style="{StaticResource edit}"/>
+                    <Button Content="Sil" Height="30" Width="100" Margin="10,0,0,0" Style="{StaticResource delete}"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+</Page>

@@ -1,0 +1,59 @@
+﻿<Window x:Class="Photo_Order.WindowOrderDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photo_Order"
+        mc:Ignorable="d"
+        Title="Siparis Detayi" WindowStartupLocation="CenterScreen" Icon="/sic_267.ico">
+    <StackPanel Margin="5,10,5,10" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" Style="{StaticResource customTable}">
+                <TextBlock Text="Miktar" Width="50" TextAlignment="Center"/>
+                <TextBlock Text="Fotograf" Width="75" TextAlignment="Center"/>
+                <TextBlock Text="Fotograci" Width="250" TextAlignment="Center" />
+                <TextBlock Text="Fiyat" Width="100" TextAlignment="Left" />
+                <TextBlock Text="Ekleme Tarihi" Width="150" TextAlignment="Center" />
+                <TextBlock Text="Duzenle" Width="100" TextAlignment="Center" />
+                <TextBlock Text="Sil" Width="100" TextAlignment="Center" />
+            </StackPanel>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" MaxHeight="700">
+                <StackPanel Margin="10,0,0,15" x:Name="orderProductList">
+                    <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                        <TextBlock Text="3x" VerticalAlignment="Center" Width="50" TextAlignment="Center"/>
+                        <Image Height="60" Width="60" Stretch="Fill" />
+                        <TextBlock Text="Mert OZCELIK" VerticalAlignment="Center" Width="250" TextAlignment="Center"/>
+                        <StackPanel Width="100">
+                            <TextBlock Text="50 TL" VerticalAlignment="Center" TextAlignment="Left"/>
+                            <TextBlock Text="50 Dolar" VerticalAlignment="Center" TextAlignment="Left"/>
+                            <TextBlock Text="50 Euro" VerticalAlignment="Center" TextAlignment="Left"/>
+                            <TextBlock Text="50 Pound" VerticalAlignment="Center" TextAlignment="Left"/>
+                        </StackPanel>
+                        <TextBlock Text="15/05/2022" VerticalAlignment="Center" Width="150" TextAlignment="Center" />
+                        <Button Content="Duzenle" Height="30" Width="100" Style="{StaticResource edit}"/>
+                        <Button Content="Sil" Height="30" Width="100" Margin="10,0,5,0" Style="{StaticResource delete}"/>
+                    </StackPanel>
+                </StackPanel>
+            </ScrollViewer>
+        </StackPanel>
+        <StackPanel Margin="25,0,5,0" Width="350">
+            <TextBlock Text="Toplam" TextAlignment="Center" Style="{StaticResource titleTextBlock}"/>
+            <TextBlock x:Name="priceTurkishLira" Text="50 TL" TextAlignment="Left" Style="{StaticResource priceTextBlock}" />
+            <TextBlock x:Name="priceDollar" Text="50 Dolar" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+            <TextBlock x:Name="priceEuro" Text="50 Euro" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+            <TextBlock x:Name="pricePound" Text="50 Pound" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                <TextBlock Text="Seçilen Fotoğraf Sayısı:" TextAlignment="Center" Style="{StaticResource priceTextBlock}" FontSize="12" VerticalAlignment="Center"/>
+                <TextBlock x:Name="totalCount" Text="0" TextAlignment="Center" Style="{StaticResource priceTextBlock}" Margin="5,0,0,0"/>
+            </StackPanel>
+            <TextBlock Text="Ödeme Tipi" TextAlignment="Left" Margin="0,25,0,0" Style="{StaticResource inputInfoTextBlock}"/>
+            <ComboBox x:Name="paymentType" SelectedValuePath="Content" Style="{StaticResource editComboBox}">
+                <ComboBoxItem Content="Turkish Lira" />
+                <ComboBoxItem Content="Dollar" />
+                <ComboBoxItem Content="Euro" />
+                <ComboBoxItem Content="Pound" />
+            </ComboBox>
+            <Button Content="Ödeme Yap" Height="35" Click="paymentOrder" Margin="0,25,0,0" Style="{StaticResource save}" />
+        </StackPanel>
+    </StackPanel>
+</Window>

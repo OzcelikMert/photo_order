@@ -1,0 +1,189 @@
+Login Date 4/24/2022 10:14:32 PM
+---------------------------------------------------
+Log Time '4/24/2022 10:14:35 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24.04.2022 22:14:38': Message: Unable to connect to any of the specified MySQL hosts.
+Source: MySqlConnector
+StackTrace:    konum: MySqlConnector.Core.ServerSession.<ConnectAsync>d__83.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.Core.ConnectionPool.<ConnectSessionAsync>d__21.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<CreateSessionAsync>d__124.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<OpenAsync>d__26.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.MySqlConnection.Open()
+   konum: Photo_Order_Customer.config.db.functions.Select.getProductOwners(Int64 id, String name) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\config\db\functions\select.cs içinde: satır 93
+   konum: Photo_Order_Customer.views.pages.search.form.<getProductOwners>b__7_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\search\form.xaml.cs içinde: satır 37
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '24.04.2022 22:14:41': Message: Unable to connect to any of the specified MySQL hosts.
+Source: MySqlConnector
+StackTrace:    konum: MySqlConnector.Core.ServerSession.<ConnectAsync>d__83.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.Core.ConnectionPool.<ConnectSessionAsync>d__21.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<CreateSessionAsync>d__124.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<OpenAsync>d__26.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.MySqlConnection.Open()
+   konum: Photo_Order_Customer.config.db.functions.Select.getEvents(Int64 id, String name) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\config\db\functions\select.cs içinde: satır 124
+   konum: Photo_Order_Customer.views.pages.search.form.<getEvents>b__8_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\search\form.xaml.cs içinde: satır 62
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '24.04.2022 22:14:43': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 65
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 4/24/2022 10:14:55 PM
+---------------------------------------------------
+Log Time '4/24/2022 10:14:57 PM': Message: Thread was being aborted.
+Source: Photo Order Customer
+StackTrace:    at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 66
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/24/2022 10:15:25 PM
+---------------------------------------------------
+Login Date 4/24/2022 10:15:33 PM
+---------------------------------------------------
+Log Time '4/24/2022 10:15:35 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/24/2022 10:48:22 PM
+---------------------------------------------------
+Log Time '4/24/2022 10:48:23 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/24/2022 10:51:53 PM
+---------------------------------------------------
+Log Time '4/24/2022 10:51:54 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24.04.2022 22:55:57': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 65
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '4/24/2022 10:56:12 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24.04.2022 22:56:28': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24.04.2022 22:56:42': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24/04/2022 22:56:51': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24/04/2022 10:57:42 م': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/24/2022 11:44:14 PM
+---------------------------------------------------
+Log Time '4/24/2022 11:44:23 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '24.04.2022 23:44:53': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 65
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------

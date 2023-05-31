@@ -1,0 +1,35 @@
+﻿<Page x:Class="Photo_Order.views.pages.customers.list"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order.views.pages.customers"
+      mc:Ignorable="d" Background="Transparent">
+    <StackPanel Margin="5,10,5,10">
+        <Grid Margin="0,0,0,10" >
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="100" Content="Listeyi Yenile" Click="refreshList" Style="{StaticResource refresh}" />
+            <TextBlock Text="Arama: " HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,260,0" />
+            <TextBox HorizontalAlignment="Right" VerticalAlignment="Top" x:Name="search" KeyUp="searchOrder" Style="{StaticResource searchTextBox}"/>
+        </Grid>
+        <StackPanel Orientation="Horizontal" Style="{StaticResource customTable}">
+            <TextBlock Text="Oda" Width="100" TextAlignment="Center"/>
+            <TextBlock Text="Isim" Width="250" TextAlignment="Center" />
+            <TextBlock Text="Eposta" Width="250" TextAlignment="Center" />
+            <TextBlock Text="Olusturulma Tarihi" Width="150" TextAlignment="Center" />
+            <TextBlock Text="Sifre Degistir" Width="100" TextAlignment="Center"/>
+            <TextBlock Text="Sil" Width="100" TextAlignment="Center"/>
+        </StackPanel>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" MaxHeight="700">
+            <StackPanel Margin="0,0,0,15" x:Name="customerList">
+                <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                    <TextBlock Text="1234" VerticalAlignment="Center" Width="100" TextAlignment="Center" />
+                    <TextBlock Text="Mert OZCELIK" VerticalAlignment="Center" Width="250" TextAlignment="Center"/>
+                    <TextBlock Text="mert@gmail.com" VerticalAlignment="Center" Width="250" TextAlignment="Center" TextWrapping="Wrap"/>
+                    <TextBlock Text="15/05/2022" VerticalAlignment="Center" Width="150" TextAlignment="Center" />
+                    <Button Content="Sifre Degistir" Height="30" Width="100" Style="{StaticResource edit}" />
+                    <Button Content="Sil" Height="30" Width="100" Margin="5,0,0,0" Style="{StaticResource delete}"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+</Page>

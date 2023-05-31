@@ -1,0 +1,19 @@
+﻿<Page x:Class="Photo_Order.views.pages.orders.edit"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order.views.pages.orders"
+      mc:Ignorable="d" Background="Transparent">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250" Margin="5,5,5,5">
+        <TextBlock Text="Fiyat (TL)" Style="{StaticResource inputInfoTextBlock}"/>
+        <TextBox x:Name="priceTurkishLira" Style="{StaticResource editTextBox}"/>
+        <TextBlock Text="Fiyat (Dolar)" Style="{StaticResource inputInfoTextBlock}"/>
+        <TextBox x:Name="priceDollar" Style="{StaticResource editTextBox}"/>
+        <TextBlock Text="Fiyat (Euro)" Style="{StaticResource inputInfoTextBlock}"/>
+        <TextBox x:Name="priceEuro" Style="{StaticResource editTextBox}"/>
+        <TextBlock Text="Fiyat (Pound)" Style="{StaticResource inputInfoTextBlock}"/>
+        <TextBox x:Name="pricePound" Style="{StaticResource editTextBox}"/>
+        <Button Content="Güncelle" Margin="0,15,0,0" Height="35" Click="saveClick" Style="{StaticResource save}"/>
+    </StackPanel>
+</Page>

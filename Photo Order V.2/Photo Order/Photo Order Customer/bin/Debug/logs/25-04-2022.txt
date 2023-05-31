@@ -1,0 +1,258 @@
+Login Date 4/25/2022 12:25:48 PM
+---------------------------------------------------
+Log Time '4/25/2022 12:25:53 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 12:27:07 PM
+---------------------------------------------------
+Log Time '4/25/2022 12:27:09 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 12:33:00 PM
+---------------------------------------------------
+Log Time '4/25/2022 12:33:02 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 12:40:57 PM
+---------------------------------------------------
+Log Time '4/25/2022 12:41:01 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 12:46:05 PM
+---------------------------------------------------
+Log Time '4/25/2022 12:46:07 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 12:50:00 PM
+---------------------------------------------------
+Log Time '4/25/2022 12:50:03 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:02:46 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:02:56 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:03:30 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:03:32 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:04:33 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:04:36 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:05:16 PM
+---------------------------------------------------
+Login Date 4/25/2022 2:05:26 PM
+---------------------------------------------------
+Login Date 4/25/2022 2:05:35 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:05:43 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:07:44 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:07:46 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:11:53 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:11:55 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:14:23 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:14:35 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:16:43 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:16:46 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:17:34 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:17:36 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 2:48:48 PM
+---------------------------------------------------
+Log Time '4/25/2022 2:48:50 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '25.04.2022 14:50:00': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 65
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 4/25/2022 3:18:29 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:18:31 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 3:19:57 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:20:00 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 3:21:36 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:21:38 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 3:23:07 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:23:09 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 3:23:49 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:23:51 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '25.04.2022 15:24:12': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 65
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 4/25/2022 3:24:26 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:24:28 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 4/25/2022 3:26:27 PM
+---------------------------------------------------
+Log Time '4/25/2022 3:26:29 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 65
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '25.04.2022 15:27:14': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 65
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------

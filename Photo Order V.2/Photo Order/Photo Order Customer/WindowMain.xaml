@@ -1,0 +1,55 @@
+﻿<Window x:Class="Photo_Order_Customer.WindowMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:tools="clr-namespace:Photo_Order_Customer.views.tools"
+        xmlns:local="clr-namespace:Photo_Order_Customer"
+        xmlns:appLibrary="clr-namespace:AppLibrary;assembly=AppLibrary"
+        mc:Ignorable="d"
+        Title="Musteri Ekrani" MinHeight="1024" MinWidth="1280" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None" Closing="windowClosing" Icon="/sic_267.ico" MouseMove="windowMouseMove">
+    <Window.Resources>
+        <appLibrary:ValueToPercentConverter x:Key="ValueToPercentConverter" />
+    </Window.Resources>
+    <Grid x:Name="gridMain">
+        <Image x:Name="backgroundLogo" HorizontalAlignment="Center" VerticalAlignment="Center" Height="750" Width="750" Panel.ZIndex="0" Stretch="Uniform" Opacity="0.3"/>
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Style="{StaticResource delete}" Click="clickClose" Panel.ZIndex="2" Margin="0,5,5,0">
+            <Grid Width="150" Height="35">
+                <TextBlock Text="{StaticResource langLogout}" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15,0,0,0"/>
+                <Image Source="/assets/images/icons/buttons/logout.png" Height="30" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+            </Grid>
+        </Button>
+        <Grid Background="#99000000" x:Name="preLoader" Visibility="Collapsed" Panel.ZIndex="9">
+            <TextBlock Text="{StaticResource langImagesLoadingPleaseWait}" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource titleTextBlock}" Foreground="White" />
+            <ProgressBar VerticalAlignment="Center" Height="35" Width="350" IsIndeterminate="false" Margin="0,150,0,0" x:Name="preLoaderProgress">
+                <ProgressBar.Background>
+                    <SolidColorBrush Color="#7FE6E6E6" Opacity="1"/>
+                </ProgressBar.Background>
+                <ProgressBar.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" SpreadMethod="Pad" MappingMode="RelativeToBoundingBox">
+                        <LinearGradientBrush.RelativeTransform>
+                            <TransformGroup>
+                                <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                                <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                                <RotateTransform Angle="-90" CenterX="0.5" CenterY="0.5"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </LinearGradientBrush.RelativeTransform>
+                        <GradientStop Color="#FF099E34"/>
+                        <GradientStop Color="#FF0974AB" Offset="1"/>
+                    </LinearGradientBrush>
+                </ProgressBar.Foreground>
+            </ProgressBar>
+            <TextBlock  
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center" Margin="0,150,0,0" Foreground="Black" FontSize="35">
+                <TextBlock.Text>
+                    <MultiBinding Converter="{StaticResource ValueToPercentConverter}" StringFormat="{}{0}%">
+                        <Binding ElementName="preLoaderProgress" Path="Value"/>
+                        <Binding ElementName="preLoaderProgress" Path="Maximum"/>
+                    </MultiBinding>
+                </TextBlock.Text>
+            </TextBlock>
+        </Grid>
+    </Grid>
+</Window>

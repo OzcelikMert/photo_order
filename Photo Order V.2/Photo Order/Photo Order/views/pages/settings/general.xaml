@@ -1,0 +1,33 @@
+﻿<Page x:Class="Photo_Order.views.pages.settings.general"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order.views.pages.settings"
+      mc:Ignorable="d">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="5,5,5,5" Width="250">
+        <StackPanel>
+            <TextBlock Text="Firma İsimi" Style="{StaticResource inputInfoTextBlock}" />
+            <TextBox x:Name="companyName" Style="{StaticResource editTextBox}" />
+        </StackPanel>
+        <StackPanel>
+            <TextBlock Text="Arkaplan Logosu" Style="{StaticResource inputInfoTextBlock}" />
+            <StackPanel Orientation="Horizontal">
+                <Image x:Name="backgroundLogo" Source="/assets/images/empty.jpg" Height="45" Width="45" Stretch="Uniform"/>
+                <Button Content="Resim Seç" Style="{StaticResource addImage}" Height="35" Width="75" Click="chooseImageClick" Margin="15,0,0,0"/>
+                <Button Content="Temizle" Style="{StaticResource addImage}" Height="35" Width="75" Click="setBackgroundLogoDefault" Margin="15,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+        <Button Content="Kaydet" Style="{StaticResource save}" Margin="0,15,0,0" Height="35" Click="save"/>
+        <StackPanel Orientation="Horizontal" Margin="0,25,0,0" HorizontalAlignment="Center">
+            <TextBlock Text="Lisans Bitiş Tarihi: " Style="{StaticResource inputInfoTextBlock}"/>
+            <TextBlock x:Name="licenseDateEnd" Margin="15,0,0,0" Style="{StaticResource inputInfoTextBlock}"/>
+        </StackPanel>
+        <StackPanel Margin="0,5,0,0">
+            <TextBlock Text="Destek: support@merkersoft.com" HorizontalAlignment="Center" Style="{StaticResource inputInfoTextBlock}"/>
+        </StackPanel>
+        <StackPanel Margin="0,15,0,0">
+            <TextBlock Text="Copyright 2022 | MerkerSoft" HorizontalAlignment="Center" Style="{StaticResource inputInfoTextBlock}"/>
+        </StackPanel>
+    </StackPanel>
+</Page>

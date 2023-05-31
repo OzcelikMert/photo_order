@@ -1,0 +1,39 @@
+Login Date 6/7/2022 6:19:37 PM
+---------------------------------------------------
+Login Date 6/7/2022 6:20:33 PM
+---------------------------------------------------
+Login Date 6/7/2022 6:22:38 PM
+---------------------------------------------------
+Login Date 6/7/2022 6:24:00 PM
+---------------------------------------------------
+Login Date 6/7/2022 6:24:17 PM
+---------------------------------------------------
+Log Time '6/7/2022 6:26:12 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0()
+   at AppLibrary.Logger.loggerFunction(Func func)
+---------------------------------------------------
+Login Date 6/7/2022 6:31:51 PM
+---------------------------------------------------
+Log Time '6/7/2022 6:32:08 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0()
+   at AppLibrary.Logger.loggerFunction(Func func)
+---------------------------------------------------
+Login Date 6/7/2022 8:10:57 PM
+---------------------------------------------------
+Log Time '6/7/2022 8:12:06 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   at System.Windows.Threading.Dispatcher.InvokeAsyncImpl(DispatcherOperation operation, CancellationToken cancellationToken)
+   at System.Windows.Threading.Dispatcher.LegacyBeginInvokeImpl(DispatcherPriority priority, Delegate method, Object args, Int32 numArgs)
+   at System.Windows.Threading.Dispatcher.BeginInvoke(Delegate method, Object[] args)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0()
+   at AppLibrary.Logger.loggerFunction(Func func)
+---------------------------------------------------

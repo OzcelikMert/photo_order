@@ -1,0 +1,50 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="baseButtonStyle" TargetType="Button">
+        <Setter Property="FontSize" Value="14"/>
+    </Style>
+    
+    <Style BasedOn="{StaticResource baseButtonStyle}" x:Key="createNew" TargetType="Button">
+        <Setter Property="Background" Value="#FF0CAF07" />
+        <Setter Property="BorderBrush" Value="#FF086B05" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <Style BasedOn="{StaticResource baseButtonStyle}" x:Key="edit" TargetType="Button">
+        <Setter Property="Background" Value="#FF04919C" />
+        <Setter Property="BorderBrush" Value="#FF036375" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <Style BasedOn="{StaticResource baseButtonStyle}" x:Key="delete" TargetType="Button">
+        <Setter Property="Background" Value="#FF9A0505" />
+        <Setter Property="BorderBrush" Value="#FF670000" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <Style BasedOn="{StaticResource baseButtonStyle}" x:Key="save" TargetType="Button">
+        <Setter Property="Background" Value="#FF067B28" />
+        <Setter Property="BorderBrush" Value="#FF024A1A" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <Style BasedOn="{StaticResource baseButtonStyle}" x:Key="addToBasket" TargetType="Button">
+        <Setter Property="Background" Value="#FFAF8019" />
+        <Setter Property="BorderBrush" Value="#FF4A2A02" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+    <Style x:Key="language" TargetType="Button">
+        <Setter Property="Background" Value="White" />
+        <Setter Property="BorderBrush" Value="#FFA0A0A0" />
+        <Setter Property="Foreground" Value="Black" />
+        <Setter Property="FontSize" Value="18" />
+    </Style>
+
+    <Style BasedOn="{StaticResource baseButtonStyle}" x:Key="refresh" TargetType="Button">
+        <Setter Property="Background" Value="#FF0A279A" />
+        <Setter Property="BorderBrush" Value="#FF04055F" />
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+
+</ResourceDictionary>

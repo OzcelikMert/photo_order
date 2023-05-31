@@ -1,0 +1,104 @@
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Photo Order.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Photo Order.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Photo Order.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppComponents.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppController.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppLibrary.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\EntityFramework.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\EntityFramework.SqlServer.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\HtmlRenderer.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\HtmlRenderer.PdfSharp.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\MySqlConnector.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Newtonsoft.Json.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PdfSharp.Charting.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PdfSharp.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PhotoOrder Updater.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Spire.License.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Spire.Pdf.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Buffers.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Diagnostics.DiagnosticSource.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Memory.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Numerics.Vectors.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppLinks.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Microsoft.mshtml.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppComponents.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppController.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppController.dll.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppLibrary.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PhotoOrder Updater.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PhotoOrder Updater.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\EntityFramework.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\EntityFramework.SqlServer.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\HtmlRenderer.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\HtmlRenderer.PdfSharp.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\MySqlConnector.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Newtonsoft.Json.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PdfSharp.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\PdfSharp.Charting.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Spire.License.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\Spire.Pdf.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Buffers.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Memory.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Numerics.Vectors.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\AppLinks.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\de\PdfSharp.resources.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Release\de\PdfSharp.Charting.resources.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.csproj.AssemblyReference.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.csproj.SuggestedBindingRedirects.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\assets\styles\button.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\assets\styles\combobox.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\assets\styles\table.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\assets\styles\textblock.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\assets\styles\textbox.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\customers\edit.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\customers\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\orders\edit.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\events\add.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\events\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\orders\old.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\product\addGroup.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\settings\general.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\settings\price.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\tools\LoaderProgress.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\WindowMain.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\orders\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\productOwner\add.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\productOwner\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\product\add.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\product\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\WindowEdit.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\WindowOrderDetail.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\App.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order_MarkupCompile.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order_MarkupCompile.lref
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\App.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\customers\edit.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\customers\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\orders\edit.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\events\add.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\events\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\orders\old.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\product\addGroup.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\settings\general.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\settings\price.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\tools\LoaderProgress.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\WindowMain.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\orders\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\productOwner\add.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\productOwner\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\product\add.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\views\pages\product\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\WindowEdit.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\WindowOrderDetail.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.g.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo_Order.Properties.Resources.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.csproj.GenerateResource.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.csproj.CoreCompileInputs.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.csproj.CopyComplete
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Release\Photo Order.pdb

@@ -1,0 +1,65 @@
+﻿<Page x:Class="Photo_Order.views.pages.product.addGroup"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order.views.pages.product"
+      mc:Ignorable="d" Background="Transparent">
+    <StackPanel HorizontalAlignment="Center" Margin="15,15,15,15" VerticalAlignment="Center">
+        <StackPanel x:Name="stackPanelImage" Orientation="Vertical">
+            <ScrollViewer Width="500" Height="350" VerticalScrollBarVisibility="Auto" Visibility="Collapsed" x:Name="imagesMain">
+                <StackPanel x:Name="images"></StackPanel>
+            </ScrollViewer>
+            <Image Width="500" Height="350" Source="/assets/images/empty.jpg" Stretch="Uniform" x:Name="image"/>
+            <Grid Margin="0,5,0,0">
+                <Button Content="Resim Ekle"  Width="150" Height="35" Click="chooseImageClick" Style="{StaticResource addImage}"/>
+            </Grid>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+            <StackPanel Width="250">
+                <StackPanel>
+                    <TextBlock Text="Fiyat (TL)*" Style="{StaticResource inputInfoTextBlock}"/>
+                    <TextBox Text="0" x:Name="priceTurkishLira" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Fiyat (Dolar)*" Style="{StaticResource inputInfoTextBlock}"/>
+                    <TextBox Text="0" x:Name="priceDollar" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Fiyat (Euro)*" Style="{StaticResource inputInfoTextBlock}"/>
+                    <TextBox Text="0" x:Name="priceEuro" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Fiyat (Pound)*" Style="{StaticResource inputInfoTextBlock}"/>
+                    <TextBox Text="0" x:Name="pricePound" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+                </StackPanel>
+
+                <StackPanel Margin="0,10,0,0" >
+                    <Viewbox HorizontalAlignment="Left" Width="100">
+                        <CheckBox Content="Slider Aktif" x:Name="isActiveSlider" IsChecked="true"/>
+                    </Viewbox>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Width="250" Margin="5,0,0,0">
+                <StackPanel>
+                    <TextBlock Text="Fotoğrafçı*" Style="{StaticResource inputInfoTextBlock}"/>
+                    <ComboBox x:Name="owner" DisplayMemberPath="Name" SelectedValuePath="Id" Style="{StaticResource editComboBox}"></ComboBox>
+                </StackPanel>
+                
+                <StackPanel>
+                    <TextBlock Text="Etkinlik" Style="{StaticResource inputInfoTextBlock}"/>
+                    <ComboBox x:Name="event" DisplayMemberPath="Name" SelectedValuePath="Id" Style="{StaticResource editComboBox}"></ComboBox>
+                </StackPanel>
+
+                <StackPanel>
+                    <TextBlock Text="Tarih" Style="{StaticResource inputInfoTextBlock}"/>
+                    <Calendar x:Name="calendar" Foreground="Black" HorizontalAlignment="Left" IsTodayHighlighted="False"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        <Button Content="Kaydet" HorizontalAlignment="Right" Width="150" Height="35" x:Name="save" Click="saveClick" Margin="0,15,0,0" Style="{StaticResource save}" />
+    </StackPanel>
+</Page>

@@ -1,0 +1,16 @@
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Release\Rife.Keyboard.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Release\Rife.Keyboard.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Release\WindowsInput.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Release\WindowsInput.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.csproj.AssemblyReference.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard_MarkupCompile.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard_MarkupCompile.lref
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Themes\Generic.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.g.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.Properties.Resources.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.csproj.GenerateResource.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.csproj.CoreCompileInputs.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.csproj.CopyComplete
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Release\Rife.Keyboard.pdb

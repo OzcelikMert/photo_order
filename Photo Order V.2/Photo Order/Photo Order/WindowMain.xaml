@@ -1,0 +1,12 @@
+﻿<Window x:Class="Photo_Order.WindowMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photo_Order"
+        mc:Ignorable="d"
+        Title="Photo Order Yetkili Paneli" MinHeight="850" MinWidth="1150" MaxHeight="850" MaxWidth="1150" WindowStartupLocation="CenterScreen" Icon="/sic_267.ico" >
+    <Grid x:Name="gridMain">
+        <Image x:Name="backgroundLogo" HorizontalAlignment="Center" VerticalAlignment="Center" Height="500" Width="500" Panel.ZIndex="0" Stretch="Uniform" Opacity="0.3"/>
+    </Grid>
+</Window>

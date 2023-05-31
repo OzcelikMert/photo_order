@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Photo Order Setup", "Photo Order Setup\Photo Order Setup.vdproj", "{08A518D4-E1CE-4C2E-8E90-814808A1152A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Photo Order Customer Setup", "Photo Order Customer Setup\Photo Order Customer Setup.vdproj", "{EC5FF30C-9187-4710-A1DA-1256962D9D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A518D4-E1CE-4C2E-8E90-814808A1152A}.Debug|Any CPU.ActiveCfg = Debug
+		{08A518D4-E1CE-4C2E-8E90-814808A1152A}.Debug|Any CPU.Build.0 = Debug
+		{08A518D4-E1CE-4C2E-8E90-814808A1152A}.Release|Any CPU.ActiveCfg = Release
+		{08A518D4-E1CE-4C2E-8E90-814808A1152A}.Release|Any CPU.Build.0 = Release
+		{EC5FF30C-9187-4710-A1DA-1256962D9D67}.Debug|Any CPU.ActiveCfg = Debug
+		{EC5FF30C-9187-4710-A1DA-1256962D9D67}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F3385D-A9F3-426C-AF60-D48CA0C80646}
+	EndGlobalSection
+EndGlobal

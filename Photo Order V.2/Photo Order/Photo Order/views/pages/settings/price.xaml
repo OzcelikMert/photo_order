@@ -1,0 +1,30 @@
+﻿<Page x:Class="Photo_Order.views.pages.settings.price"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order.views.pages.settings"
+      mc:Ignorable="d">
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250" Margin="5,5,5,5">
+        <StackPanel>
+            <TextBlock Text="Fiyat (TL)*" Style="{StaticResource inputInfoTextBlock}"/>
+            <TextBox Text="0" x:Name="priceTurkishLira" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="Fiyat (Dolar)*" Style="{StaticResource inputInfoTextBlock}"/>
+            <TextBox Text="0" x:Name="priceDollar" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="Fiyat (Euro)*" Style="{StaticResource inputInfoTextBlock}"/>
+            <TextBox Text="0" x:Name="priceEuro" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock Text="Fiyat (Pound)*" Style="{StaticResource inputInfoTextBlock}"/>
+            <TextBox Text="0" x:Name="pricePound" PreviewTextInput="numberPreviewTextInput" MaxLength="10" Style="{StaticResource editTextBox}"/>
+        </StackPanel>
+        <Button Content="Güncelle" Margin="0,15,0,0" Height="35" Style="{StaticResource save}" Click="save" />
+    </StackPanel>
+</Page>

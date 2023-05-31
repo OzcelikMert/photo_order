@@ -1,0 +1,32 @@
+﻿<Window x:Class="PhotoOrder_Updater.Updater.WindowUpdater"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhotoOrder_Updater.Updater"
+        mc:Ignorable="d"
+       Title="Güncelleme Ekranı" Height="300" Width="500" ResizeMode="NoResize" WindowStyle="None" WindowStartupLocation="CenterScreen" Closed="Window_Closed" Background="Transparent" Icon="/sic_267.ico">
+    <Grid x:Name="mainGrid" RenderTransformOrigin="0.5,0.5">
+        <Border BorderBrush="Transparent" BorderThickness="0" CornerRadius="20" Background="#FF303034"></Border>
+        <Grid x:Name="gridTop" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="54,31,54,167">
+            <StackPanel>
+                <Label x:Name="companyName" Content="Photo Order" HorizontalAlignment="Center" FontSize="48" FontFamily="Berlin Sans FB" Foreground="White"/>
+                <Label x:Name="developerCompanyName" Content="Created by MerkerSoft" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" FontFamily="Montserrat" Foreground="White"/>
+            </StackPanel>
+        </Grid>
+        <Grid x:Name="gridProgressBar" VerticalAlignment="Bottom">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Width="500">
+                        <Label x:Name="totalSizeText" Content="Toplam: 0MB" HorizontalAlignment="Right"  HorizontalContentAlignment="Stretch" FontSize="15" FontFamily="Segoe UI Black" Foreground="White"/>
+                        <Label x:Name="statusText" Content="Güncellemeler Yükleniyor" HorizontalAlignment="Center" FontSize="18" FontFamily="Montserrat" Foreground="White"/>
+                        <Label x:Name="downloadedSizeText" Content="İndirilen: 0MB" HorizontalAlignment="Left" FontSize="15" FontFamily="Segoe UI Black" Foreground="White"/>
+                    </Grid>
+                </StackPanel>
+                <Border BorderThickness="0" BorderBrush="#FF680000" Background="#FF4B4B4B" CornerRadius="0" Height="15" Margin="0,5,0,0">
+                    <ProgressBar x:Name="progressDownloadBar" Minimum="0" IsIndeterminate="True" Background="{x:Null}" BorderThickness="0" BorderBrush="Transparent" Foreground="#FF2C2CFF" />
+                </Border>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

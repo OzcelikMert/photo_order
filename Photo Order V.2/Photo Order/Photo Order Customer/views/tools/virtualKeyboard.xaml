@@ -1,0 +1,24 @@
+﻿<Page x:Class="Photo_Order_Customer.views.tools.VirtualKeyboard"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order_Customer.views.tools"
+      xmlns:kbrd="clr-namespace:Rife.Keyboard;assembly=Rife.Keyboard"
+      mc:Ignorable="d" Height="300" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/assets/styles/Keyboards.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Button Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Top" Content="X Close" Height="25" Width="75" FontSize="15" Style="{StaticResource delete}" Click="closeKeyboard"/>
+        <kbrd:Keyboard x:Name="Keyboard" Grid.Row="1"/>
+    </Grid>
+</Page>

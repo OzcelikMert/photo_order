@@ -1,0 +1,454 @@
+Log Time '6/11/2022 12:01:13 AM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 69
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Log Time '11.06.2022 00:01:14': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowSlider.<setImage>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowSlider.xaml.cs içinde: satır 49
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:02:20': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 69
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:02:22': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowSlider.<setImage>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowSlider.xaml.cs içinde: satır 49
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:03:23': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 69
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:03:32': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowSlider.<setImage>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowSlider.xaml.cs içinde: satır 49
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:04:34': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   konum: System.Threading.Thread.Sleep(TimeSpan timeout)
+   konum: Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 69
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 6/11/2022 12:05:32 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:05:45 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:07:18 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:11:00 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:12:01 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:12:15 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:13:27 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:18:30 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:19:22 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:23:10 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:27:43 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:31:14 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:32:09 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:33:53 AM
+---------------------------------------------------
+Log Time '6/11/2022 12:36:20 AM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0() in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs:line 69
+   at AppLibrary.Logger.loggerFunction(Func func) in D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs:line 32
+---------------------------------------------------
+Login Date 6/11/2022 12:37:05 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:38:15 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:38:26 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:43:12 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:53:30 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:54:24 AM
+---------------------------------------------------
+Log Time '11.06.2022 00:54:33': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.AbortInternal()
+   konum: System.Threading.Thread.Abort()
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass24_0.<createComponents>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 109
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:54:33': Message: İş parçacığı durduruluyordu.
+Source: AppLibrary
+StackTrace:    konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 35
+   konum: Photo_Order_Customer.views.pages.products.list.createComponents(List`1 products, CancellationToken token) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 102
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass23_0.<getProducts>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 83
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:54:33': Message: İş parçacığı durduruluyordu.
+Source: AppLibrary
+StackTrace:    konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 35
+   konum: Photo_Order_Customer.views.pages.products.list.getProducts(Boolean getFromLocal) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 69
+   konum: Photo_Order_Customer.views.pages.products.list.initPage(List`1 productOwners, List`1 events, String[] date, Boolean getFromLocal) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 40
+   konum: Photo_Order_Customer.views.pages.search.form.searchProducts(Object sender, RoutedEventArgs e) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\search\form.xaml.cs içinde: satır 120
+   konum: System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   konum: System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   konum: System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   konum: System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   konum: System.Windows.Controls.Primitives.ButtonBase.OnClick()
+   konum: System.Windows.Controls.Button.OnClick()
+   konum: System.Windows.Controls.Primitives.ButtonBase.OnMouseLeftButtonUp(MouseButtonEventArgs e)
+   konum: System.Windows.UIElement.OnMouseLeftButtonUpThunk(Object sender, MouseButtonEventArgs e)
+   konum: System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   konum: System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   konum: System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   konum: System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   konum: System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   konum: System.Windows.UIElement.OnMouseUpThunk(Object sender, MouseButtonEventArgs e)
+   konum: System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   konum: System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   konum: System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   konum: System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   konum: System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   konum: System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   konum: System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   konum: System.Windows.Input.InputManager.ProcessStagingArea()
+   konum: System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   konum: System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   konum: System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   konum: System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   konum: System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   konum: MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   konum: MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   konum: System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   konum: System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   konum: System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   konum: MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   konum: MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   konum: System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   konum: System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   konum: System.Windows.Window.ShowHelper(Object booleanBox)
+   konum: System.Windows.Window.Show()
+   konum: System.Windows.Window.ShowDialog()
+   konum: Photo_Order_Customer.WindowLanguage.<>c__DisplayClass7_0.<languageClick>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 109
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 6/11/2022 12:55:22 AM
+---------------------------------------------------
+Log Time '11.06.2022 00:55:28': Message: Örnek metoduna temsilcide null 'this' olamaz.
+Source: mscorlib
+StackTrace:    konum: System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass24_0.<createComponents>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 108
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:55:30': Message: Örnek metoduna temsilcide null 'this' olamaz.
+Source: mscorlib
+StackTrace:    konum: System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass24_0.<createComponents>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 108
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:55:31': Message: Örnek metoduna temsilcide null 'this' olamaz.
+Source: mscorlib
+StackTrace:    konum: System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass24_0.<createComponents>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 108
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:55:34': Message: Örnek metoduna temsilcide null 'this' olamaz.
+Source: mscorlib
+StackTrace:    konum: System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass24_0.<createComponents>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 108
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 00:55:39': Message: Örnek metoduna temsilcide null 'this' olamaz.
+Source: mscorlib
+StackTrace:    konum: System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass24_0.<createComponents>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 108
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 6/11/2022 12:56:14 AM
+---------------------------------------------------
+Login Date 6/11/2022 12:57:18 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:00:42 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:03:32 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:07:10 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:07:57 AM
+---------------------------------------------------
+Log Time '6/11/2022 1:08:10 AM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0()
+   at AppLibrary.Logger.loggerFunction(Func func)
+---------------------------------------------------
+Login Date 6/11/2022 1:08:39 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:09:58 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:11:03 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:11:31 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:12:37 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:15:04 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:15:37 AM
+---------------------------------------------------
+Log Time '11.06.2022 01:15:45': Message: İş parçacığı durduruluyordu.
+Source: mscorlib
+StackTrace:    konum: System.Threading.Thread.AbortInternal()
+   konum: System.Threading.Thread.Abort()
+   konum: Photo_Order_Customer.views.pages.products.list.initPage(List`1 productOwners, List`1 events, String[] date, Boolean getFromLocal) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 38
+   konum: Photo_Order_Customer.views.pages.search.form.searchProducts(Object sender, RoutedEventArgs e) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\search\form.xaml.cs içinde: satır 120
+   konum: System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   konum: System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   konum: System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   konum: System.Windows.UIElement.RaiseEvent(RoutedEventArgs e)
+   konum: System.Windows.Controls.Primitives.ButtonBase.OnClick()
+   konum: System.Windows.Controls.Button.OnClick()
+   konum: System.Windows.Controls.Primitives.ButtonBase.OnMouseLeftButtonUp(MouseButtonEventArgs e)
+   konum: System.Windows.UIElement.OnMouseLeftButtonUpThunk(Object sender, MouseButtonEventArgs e)
+   konum: System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   konum: System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   konum: System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   konum: System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   konum: System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   konum: System.Windows.UIElement.OnMouseUpThunk(Object sender, MouseButtonEventArgs e)
+   konum: System.Windows.Input.MouseButtonEventArgs.InvokeEventHandler(Delegate genericHandler, Object genericTarget)
+   konum: System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   konum: System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   konum: System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   konum: System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   konum: System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   konum: System.Windows.UIElement.RaiseEvent(RoutedEventArgs args, Boolean trusted)
+   konum: System.Windows.Input.InputManager.ProcessStagingArea()
+   konum: System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   konum: System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   konum: System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   konum: System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   konum: System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   konum: MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   konum: MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   konum: System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   konum: System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   konum: System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   konum: MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   konum: MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   konum: System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   konum: System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   konum: System.Windows.Window.ShowHelper(Object booleanBox)
+   konum: System.Windows.Window.Show()
+   konum: System.Windows.Window.ShowDialog()
+   konum: Photo_Order_Customer.WindowLanguage.<>c__DisplayClass7_0.<languageClick>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\WindowLanguage.xaml.cs içinde: satır 109
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 6/11/2022 1:17:23 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:19:28 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:20:53 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:21:58 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:24:26 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:28:56 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:29:49 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:30:47 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:43:07 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:44:51 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:51:01 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:51:50 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:52:26 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:53:20 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:54:09 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:56:15 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:56:52 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:59:16 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:59:47 AM
+---------------------------------------------------
+Login Date 6/11/2022 2:03:29 AM
+---------------------------------------------------
+Login Date 6/11/2022 1:20:55 PM
+---------------------------------------------------
+Log Time '11.06.2022 13:21:01': Message: Unable to connect to any of the specified MySQL hosts.
+Source: MySqlConnector
+StackTrace:    konum: MySqlConnector.Core.ServerSession.<ConnectAsync>d__83.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.Core.ConnectionPool.<ConnectSessionAsync>d__21.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<CreateSessionAsync>d__124.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<OpenAsync>d__26.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.MySqlConnection.Open()
+   konum: Photo_Order_Customer.config.db.functions.Select.getProductOwners(Int64 id, String name) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\config\db\functions\select.cs içinde: satır 97
+   konum: Photo_Order_Customer.views.pages.search.form.<getProductOwners>b__9_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\search\form.xaml.cs içinde: satır 38
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 13:21:03': Message: Unable to connect to any of the specified MySQL hosts.
+Source: MySqlConnector
+StackTrace:    konum: MySqlConnector.Core.ServerSession.<ConnectAsync>d__83.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.Core.ConnectionPool.<ConnectSessionAsync>d__21.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   konum: MySqlConnector.Core.ConnectionPool.<GetSessionAsync>d__10.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<CreateSessionAsync>d__124.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: System.Runtime.CompilerServices.ConfiguredValueTaskAwaitable`1.ConfiguredValueTaskAwaiter.GetResult()
+   konum: MySqlConnector.MySqlConnection.<OpenAsync>d__26.MoveNext()
+--- Özel durumun oluşturulduğu önceki konumdan başlayan yığın izlemesinin sonu ---
+   konum: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   konum: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   konum: MySqlConnector.MySqlConnection.Open()
+   konum: Photo_Order_Customer.config.db.functions.Select.getEvents(Int64 id, String name) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\config\db\functions\select.cs içinde: satır 128
+   konum: Photo_Order_Customer.views.pages.search.form.<getEvents>b__10_0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\search\form.xaml.cs içinde: satır 63
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '6/11/2022 1:21:06 PM': Message: Thread was being aborted.
+Source: mscorlib
+StackTrace:    at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(TimeSpan timeout)
+   at Photo_Order_Customer.WindowLanguage.<getWindowSlider>b__6_0()
+   at AppLibrary.Logger.loggerFunction(Func func)
+---------------------------------------------------
+Login Date 6/11/2022 1:21:41 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:23:46 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:24:10 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:26:51 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:27:43 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:38:00 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:42:45 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:43:33 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:43:53 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:52:43 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:54:56 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:57:03 PM
+---------------------------------------------------
+Login Date 6/11/2022 1:57:27 PM
+---------------------------------------------------
+Login Date 6/11/2022 2:12:55 PM
+---------------------------------------------------
+Log Time '11.06.2022 14:13:20': Message: Uzaklık ve uzunluk dizi sınırlarının dışındaydı veya sayı, dizinden kaynak koleksiyonun sonuna kadar olan öğe sayısından daha büyük.
+Source: mscorlib
+StackTrace:    konum: System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.GetRange(Int32 index, Int32 count)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass21_0.<getProducts>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 76
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 14:13:25': Message: Uzaklık ve uzunluk dizi sınırlarının dışındaydı veya sayı, dizinden kaynak koleksiyonun sonuna kadar olan öğe sayısından daha büyük.
+Source: mscorlib
+StackTrace:    konum: System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.GetRange(Int32 index, Int32 count)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass21_0.<getProducts>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 76
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 14:13:33': Message: Uzaklık ve uzunluk dizi sınırlarının dışındaydı veya sayı, dizinden kaynak koleksiyonun sonuna kadar olan öğe sayısından daha büyük.
+Source: mscorlib
+StackTrace:    konum: System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.GetRange(Int32 index, Int32 count)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass21_0.<getProducts>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 76
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Log Time '11.06.2022 14:14:20': Message: Uzaklık ve uzunluk dizi sınırlarının dışındaydı veya sayı, dizinden kaynak koleksiyonun sonuna kadar olan öğe sayısından daha büyük.
+Source: mscorlib
+StackTrace:    konum: System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   konum: System.Collections.Generic.List`1.GetRange(Int32 index, Int32 count)
+   konum: Photo_Order_Customer.views.pages.products.list.<>c__DisplayClass21_0.<getProducts>b__0() D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\views\pages\products\list.xaml.cs içinde: satır 76
+   konum: AppLibrary.Logger.loggerFunction(Func func) D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppLibrary\logger.cs içinde: satır 32
+---------------------------------------------------
+Login Date 6/11/2022 2:15:25 PM
+---------------------------------------------------

@@ -1,0 +1,85 @@
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Photo Order Customer.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Photo Order Customer.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Photo Order Customer.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppComponents.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppController.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppLibrary.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\EntityFramework.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\MySqlConnector.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Newtonsoft.Json.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\PhotoOrder Updater.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\PresentationCore.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Rife.Keyboard.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Buffers.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Memory.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\WindowsInput.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppLinks.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppComponents.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppController.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppController.dll.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppLibrary.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Rife.Keyboard.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\PhotoOrder Updater.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\PhotoOrder Updater.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\EntityFramework.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\MySqlConnector.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\Newtonsoft.Json.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Buffers.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Memory.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\WindowsInput.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\bin\Debug\AppLinks.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.csproj.AssemblyReference.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.csproj.SuggestedBindingRedirects.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\languages\ar-SA.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\languages\de-DE.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\languages\en-US.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\languages\fr-FR.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\languages\ru-RU.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\languages\tr-TR.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\tabControl.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\button.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\combobox.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\grid.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\table.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\textblock.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\textbox.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\assets\styles\Keyboards.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\pages\basket\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\pages\products\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\pages\search\form.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\tools\virtualKeyboard.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowLanguage.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowLogin.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowMain.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowProductBigList.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowSlider.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowViewImage.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\App.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer_MarkupCompile.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer_MarkupCompile.lref
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\App.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\pages\basket\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\pages\products\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\pages\search\form.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\views\tools\virtualKeyboard.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowLanguage.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowLogin.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowMain.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowProductBigList.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowSlider.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\WindowViewImage.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.g.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo_Order_Customer.Properties.Resources.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.csproj.GenerateResource.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.csproj.CoreCompileInputs.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.csproj.CopyComplete
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order Customer\obj\Debug\Photo Order Customer.pdb

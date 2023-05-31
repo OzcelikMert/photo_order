@@ -1,0 +1,10 @@
+{
+	"When Finished": [
+		"Add count in products page",
+		"Clear All Code",
+		"Clear SQL Codes",
+		"Clear Debug.WriteLines",
+		"Convert int id to long id"
+	]
+}
+

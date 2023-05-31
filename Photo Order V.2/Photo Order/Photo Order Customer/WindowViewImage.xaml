@@ -1,0 +1,16 @@
+﻿<Window x:Class="Photo_Order_Customer.WindowViewImage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photo_Order_Customer"
+        mc:Ignorable="d"
+        Title="Resim Goruntule" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Background="White" Icon="/sic_267.ico">
+    <StackPanel>
+        <Image Source="/assets/images/product1.jpg" Height="500" Width="500" Stretch="Uniform" x:Name="image"/>
+        <Grid Margin="0,10,0,10">
+            <TextBlock Text="abcd.jpeg" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource inputInfoTextBlock}" x:Name="imageName"/>
+            <Button Content="{StaticResource langClose}" HorizontalAlignment="Right" VerticalAlignment="Center" Width="75" Height="30" Style="{StaticResource delete}" Margin="0,0,5,0" Click="close" />
+        </Grid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95884923-82bb-4929-a7e5-2ab80a3f223b": {
+      "ProjectGuid": "95884923-82bb-4929-a7e5-2ab80a3f223b",
+      "DisplayName": "Photo Order",
+      "ColorIndex": 0
+    },
+    "99a44e75-4145-4932-ba4b-e9e667e22781": {
+      "ProjectGuid": "99a44e75-4145-4932-ba4b-e9e667e22781",
+      "DisplayName": "Photo Order Customer",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "5089b31e-3020-4a49-b069-c1275fea64dc": {
+      "ProjectGuid": "5089b31e-3020-4a49-b069-c1275fea64dc",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "efc4cf3a-a974-4e68-b8a3-2b3cd2a42484": {
+      "ProjectGuid": "efc4cf3a-a974-4e68-b8a3-2b3cd2a42484",
+      "DisplayName": "Rife.Keyboard",
+      "ColorIndex": 3
+    },
+    "40a0d733-3564-42a3-8088-3b83c2ff6115": {
+      "ProjectGuid": "40a0d733-3564-42a3-8088-3b83c2ff6115",
+      "DisplayName": "AppController",
+      "ColorIndex": 4
+    },
+    "6b1347c5-f671-4320-91ce-600afca724e1": {
+      "ProjectGuid": "6b1347c5-f671-4320-91ce-600afca724e1",
+      "DisplayName": "AppController",
+      "ColorIndex": 5
+    },
+    "d4e84a04-13aa-4688-aa22-933d54866fe6": {
+      "ProjectGuid": "d4e84a04-13aa-4688-aa22-933d54866fe6",
+      "DisplayName": "AppController",
+      "ColorIndex": 6
+    },
+    "29f542e7-39b1-4501-a7aa-9d470d5fcd9e": {
+      "ProjectGuid": "29f542e7-39b1-4501-a7aa-9d470d5fcd9e",
+      "DisplayName": "AppController",
+      "ColorIndex": 7
+    },
+    "525ed595-a3f7-43c6-8a9f-15f52282e2eb": {
+      "ProjectGuid": "525ed595-a3f7-43c6-8a9f-15f52282e2eb",
+      "DisplayName": "Updater",
+      "ColorIndex": 8
+    },
+    "774b5541-a2d6-41c5-8ec9-26049a1e3dbd": {
+      "ProjectGuid": "774b5541-a2d6-41c5-8ec9-26049a1e3dbd",
+      "DisplayName": "AppLinks",
+      "ColorIndex": 9
+    },
+    "d1e55770-30a1-492e-a35f-ac6c0dad29fd": {
+      "ProjectGuid": "d1e55770-30a1-492e-a35f-ac6c0dad29fd",
+      "DisplayName": "PhotoOrder Updater",
+      "ColorIndex": 10
+    },
+    "d691906a-a476-4fde-9fff-1f3b2ff1e8fc": {
+      "ProjectGuid": "d691906a-a476-4fde-9fff-1f3b2ff1e8fc",
+      "DisplayName": "AppLibrary",
+      "ColorIndex": 11
+    },
+    "0a9271f3-336e-476f-a439-6c01de77294a": {
+      "ProjectGuid": "0a9271f3-336e-476f-a439-6c01de77294a",
+      "DisplayName": "Loader",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

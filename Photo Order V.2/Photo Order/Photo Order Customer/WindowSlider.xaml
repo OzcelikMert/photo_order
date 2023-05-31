@@ -1,0 +1,13 @@
+﻿<Window x:Class="Photo_Order_Customer.WindowSlider"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photo_Order_Customer"
+        mc:Ignorable="d"
+        Title="Slider" MinHeight="1024" MinWidth="1280" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None" Background="Black" Closing="windowClosing" MouseDown="windowMouseDown" Icon="/sic_267.ico">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="imageGrid">
+        <Image SnapsToDevicePixels="True" x:Name="image" />
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="Gösterilecek Resim Bulunamadı" Foreground="White" FontSize="30" x:Name="emptySlilder" Visibility="Collapsed" />
+    </Grid>
+</Window>

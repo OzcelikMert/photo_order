@@ -1,0 +1,83 @@
+﻿<Page x:Class="Photo_Order_Customer.views.pages.basket.list"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Photo_Order_Customer.views.pages.basket"
+      mc:Ignorable="d" Background="Transparent">
+    <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+        <TextBlock Text="{StaticResource langSelectImageForBigImageInBasket}" Style="{StaticResource infoMessageTextBlock}"/>
+        <StackPanel Margin="5,10,5,10" Orientation="Horizontal">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Style="{StaticResource customTable}">
+                    <TextBlock Text="{StaticResource langCount}" Width="50" TextAlignment="Center"/>
+                    <TextBlock Text="{StaticResource langPhoto}" Width="150" TextAlignment="Center"/>
+                    <TextBlock Text="{StaticResource langProductName}" Width="250" TextAlignment="Center"/>
+                    <TextBlock Text="{StaticResource langPhotographer}" Width="150" TextAlignment="Center" />
+                    <TextBlock Text="{StaticResource langPrice}" Width="100" TextAlignment="Left" />
+                    <TextBlock Text="{StaticResource langAddedDate}" Width="150" TextAlignment="Center" />
+                    <TextBlock Text="{StaticResource langEdit}" Width="100" TextAlignment="Center" />
+                    <TextBlock Text="{StaticResource langDelete}" Width="100" TextAlignment="Center" />
+                </StackPanel>
+                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" MaxHeight="900" x:Name="scroll">
+                    <StackPanel x:Name="basketList">
+                        <StackPanel Orientation="Horizontal" Margin="0,15,0,0">
+                            <TextBox Text="1" Margin="0, 0, 5, 0" VerticalAlignment="Center" Width="50" TextAlignment="Center" BorderThickness="3" BorderBrush="Brown" FontSize="16"/>
+                            <Image Height="150" Width="150" Stretch="Fill" />
+                            <TextBlock Text="Mert OZCELIK" VerticalAlignment="Center" Width="250" TextAlignment="Center"/>
+                            <TextBlock Text="Mert OZCELIK" VerticalAlignment="Center" Width="150" TextAlignment="Center"/>
+                            <StackPanel Width="100">
+                                <TextBlock Text="50 TL" VerticalAlignment="Center" TextAlignment="Left"/>
+                                <TextBlock Text="50 Dolar" VerticalAlignment="Center" TextAlignment="Left"/>
+                                <TextBlock Text="50 Euro" VerticalAlignment="Center" TextAlignment="Left"/>
+                                <TextBlock Text="50 Pound" VerticalAlignment="Center" TextAlignment="Left"/>
+                            </StackPanel>
+                            <TextBlock Text="15/05/2022" VerticalAlignment="Center" Width="150" TextAlignment="Center" />
+                            <Button Height="35" Width="120" Style="{StaticResource edit}">
+                                <Grid Width="120">
+                                    <TextBlock Text="{StaticResource langEdit}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    <Image Height="20" Source="/assets/images/icons/buttons/edit.png" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                </Grid>
+                            </Button>
+                            <Button Height="35" Width="120" Style="{StaticResource save}" Visibility="Collapsed">
+                                <Grid Width="120">
+                                    <TextBlock Text="{StaticResource langAccept}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    <Image Height="20" Source="/assets/images/icons/buttons/check.png" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                </Grid>
+                            </Button>
+                            <Button Height="35" Width="120" Margin="10,0,0,0" Style="{StaticResource delete}">
+                                <Grid Width="120">
+                                    <TextBlock Text="{StaticResource langDelete}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    <Image Height="20" Source="/assets/images/icons/buttons/trash-can.png" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                </Grid>
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </StackPanel>
+            <StackPanel Margin="25,0,0,0" Width="350">
+                <TextBlock Text="{StaticResource langTotal}" TextAlignment="Center" Style="{StaticResource titleTextBlock}"/>
+                <TextBlock x:Name="priceTurkishLira" Text="50 TL" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+                <TextBlock x:Name="priceDollar" Text="50 Dolar" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+                <TextBlock x:Name="priceEuro" Text="50 Euro" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+                <TextBlock x:Name="pricePound" Text="50 Pound" TextAlignment="Left" Style="{StaticResource priceTextBlock}"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                    <TextBlock Text="{StaticResource langSelectedProductCount}" TextAlignment="Center" Style="{StaticResource priceTextBlock}" FontSize="12" VerticalAlignment="Center"/>
+                    <TextBlock x:Name="totalCount" Text="0" TextAlignment="Center" Style="{StaticResource priceTextBlock}" Margin="5,0,0,0"/>
+                </StackPanel>
+                <Button x:Name="acceptBasketButton" Height="45" Margin="0,25, 0, 0" Click="acceptBasket" Style="{StaticResource addToBasket}">
+                    <Grid Width="250">
+                        <TextBlock Text="{StaticResource langAcceptBasket}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Image Height="35" Source="/assets/images/icons/buttons/check.png" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                    </Grid>
+                </Button>
+                <Button x:Name="giveOrderButton" Height="45" Margin="0,25, 0, 0" Click="acceptBasket" Style="{StaticResource save}" Visibility="Collapsed">
+                    <Grid Width="250">
+                        <TextBlock Text="{StaticResource langGiveOrder}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Image Height="35" Source="/assets/images/icons/buttons/delivery.png" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="15,0,0,0"/>
+                    </Grid>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Page>

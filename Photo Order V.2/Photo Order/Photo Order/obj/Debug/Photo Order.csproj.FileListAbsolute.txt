@@ -1,0 +1,160 @@
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\Photo Order.exe.config
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\Photo Order.exe
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\Photo Order.pdb
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\EntityFramework.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Data.SQLite.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\EntityFramework.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Data.SQLite.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.AssemblyReference.cache
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.SuggestedBindingRedirects.cache
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\MainWindow.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\orders\list.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\add.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\list.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\product\add.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\product\list.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\App.g.cs
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order_MarkupCompile.cache
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order_MarkupCompile.lref
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\MainWindow.baml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\orders\list.baml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\add.baml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\list.baml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\product\add.baml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\views\pages\product\list.baml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.g.resources
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo_Order.Properties.Resources.resources
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.CopyComplete
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.exe
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.pdb
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Data.Common.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.IO.Compression.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Net.Http.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Net.Sockets.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Security.SecureString.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Buffers.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Memory.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Buffers.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Memory.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\merto\Desktop\Photo Order\Photo Order\obj\Debug\Photo Order.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Photo Order.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Photo Order.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Photo Order.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppComponents.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppController.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppLibrary.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\EntityFramework.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\HtmlRenderer.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\HtmlRenderer.PdfSharp.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\MySqlConnector.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Newtonsoft.Json.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PdfSharp.Charting.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PdfSharp.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PhotoOrder Updater.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Spire.License.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Spire.Pdf.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Buffers.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Memory.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Numerics.Vectors.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppLinks.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Microsoft.mshtml.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppComponents.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppController.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppController.dll.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppLibrary.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PhotoOrder Updater.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PhotoOrder Updater.exe.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\EntityFramework.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\HtmlRenderer.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\HtmlRenderer.PdfSharp.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\MySqlConnector.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Newtonsoft.Json.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PdfSharp.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\PdfSharp.Charting.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Spire.License.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\Spire.Pdf.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Buffers.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Memory.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Numerics.Vectors.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\AppLinks.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\de\PdfSharp.resources.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.AssemblyReference.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.SuggestedBindingRedirects.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\assets\styles\button.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\assets\styles\combobox.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\assets\styles\table.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\assets\styles\textblock.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\assets\styles\textbox.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\customers\edit.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\customers\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\orders\edit.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\events\add.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\events\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\orders\old.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\product\addGroup.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\settings\general.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\settings\price.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\tools\LoaderProgress.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\WindowMain.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\orders\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\add.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\product\add.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\product\list.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\WindowEdit.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\WindowOrderDetail.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\App.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order_MarkupCompile.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order_MarkupCompile.lref
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\App.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\customers\edit.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\customers\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\orders\edit.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\events\add.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\events\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\orders\old.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\product\addGroup.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\settings\general.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\settings\price.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\tools\LoaderProgress.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\WindowMain.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\orders\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\add.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\productOwner\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\product\add.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\views\pages\product\list.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\WindowEdit.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\WindowOrderDetail.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.g.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo_Order.Properties.Resources.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.GenerateResource.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.CoreCompileInputs.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.csproj.CopyComplete
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.exe
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Photo Order\obj\Debug\Photo Order.pdb

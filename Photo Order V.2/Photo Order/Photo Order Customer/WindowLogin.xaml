@@ -1,0 +1,63 @@
+﻿<Window x:Class="Photo_Order_Customer.WindowLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photo_Order_Customer"
+        mc:Ignorable="d"
+        Title="Giris Yap" WindowStartupLocation="CenterScreen" WindowStyle="None" WindowState="Maximized" ResizeMode="NoResize" Icon="/sic_267.ico" MouseMove="windowMouseMove">
+    <Grid Margin="0,10,0,10" x:Name="gridMain">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <StackPanel x:Name="stackPanelNewAccount">
+                <TextBlock Text="{StaticResource langName}" Style="{StaticResource inputInfoTextBlock}"/>
+                <TextBox x:Name="name" Style="{StaticResource editTextBox}"/>
+                <TextBlock Text="{StaticResource langEmail}" Style="{StaticResource inputInfoTextBlock}"/>
+                <TextBox x:Name="email" Style="{StaticResource editTextBox}"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Text="{StaticResource langRoom}" Style="{StaticResource inputInfoTextBlock}"/>
+                <TextBox x:Name="room" Style="{StaticResource editTextBox}"/>
+            </StackPanel>
+            <StackPanel>
+                <TextBlock Text="{StaticResource langPassword}" Style="{StaticResource inputInfoTextBlock}"/>
+                <PasswordBox x:Name="password" Style="{StaticResource editPasswordBox}"/>
+            </StackPanel>
+            <Button Height="45" Margin="0,15,0,0" x:Name="createAndLogin" Click="clickLogin" Style="{StaticResource save}" Visibility="Collapsed">
+                <Grid Width="300">
+                    <TextBlock Text="{StaticResource langCreateAndLogin}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Image Source="/assets/images/icons/buttons/login.png" Height="35" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+                </Grid>
+            </Button>
+            <Button Height="45" Margin="0,15,0,0" x:Name="login" Click="clickLogin" Style="{StaticResource save}">
+                <Grid Width="300">
+                    <TextBlock Text="{StaticResource langLogin}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Image Source="/assets/images/icons/buttons/login.png" Height="35" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+                </Grid>
+            </Button>
+            <Button Height="45" Margin="0,15,0,0" x:Name="loginVisitor" Click="clickLoginVisitor" Style="{StaticResource refresh}">
+                <Grid Width="300">
+                    <TextBlock Text="{StaticResource langLoginVisitor}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Image Source="/assets/images/icons/buttons/user.png" Height="35" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+                </Grid>
+            </Button>
+            <Button Height="45" Margin="0,15,0,0" x:Name="createNewAccount" Click="clickCreateNewAccount" Style="{StaticResource edit}">
+                <Grid Width="300">
+                    <TextBlock Text="{StaticResource langCreateNewAccount}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Image Source="/assets/images/icons/buttons/plus.png" Height="35" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+                </Grid>
+            </Button>
+            <Button Height="45" Margin="0,15,0,0" x:Name="alreadyHaveAccount" Click="clickCreateNewAccount" Style="{StaticResource edit}" Visibility="Collapsed">
+                <Grid Width="300">
+                    <TextBlock Text="{StaticResource langAlreadyHaveAccount}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Image Source="/assets/images/icons/buttons/already-user.png" Height="35" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+                </Grid>
+            </Button>
+            <Button Height="45" Margin="0,15,0,0" Click="clickClose" Style="{StaticResource delete}">
+                <Grid Width="300">
+                    <TextBlock Text="{StaticResource langCancel}" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <Image Source="/assets/images/icons/buttons/close.png" Height="35" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,15,0"/>
+                </Grid>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

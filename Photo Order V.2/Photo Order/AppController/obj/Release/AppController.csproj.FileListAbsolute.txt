@@ -1,0 +1,14 @@
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\AppController.dll.config
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\AppController.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\AppController.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\AppLinks.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\Newtonsoft.Json.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\AppLinks.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\bin\Release\Newtonsoft.Json.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.csproj.AssemblyReference.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.Properties.Resources.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.csproj.GenerateResource.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.csproj.CoreCompileInputs.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.csproj.CopyComplete
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\AppController\obj\Release\AppController.pdb

@@ -1,0 +1,31 @@
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\bin\Debug\Rife.Keyboard.dll
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\bin\Debug\Rife.Keyboard.pdb
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\bin\Debug\WindowsInput.dll
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\bin\Debug\WindowsInput.xml
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard_MarkupCompile.cache
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard_MarkupCompile.lref
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Themes\Generic.baml
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.g.resources
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.Properties.Resources.resources
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.GenerateResource.cache
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.CopyComplete
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.dll
+C:\Users\merto\Desktop\Wpf-Keyboard-master\Chones.Keyboard\obj\Debug\Rife.Keyboard.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Debug\Rife.Keyboard.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Debug\Rife.Keyboard.pdb
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Debug\WindowsInput.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\bin\Debug\WindowsInput.xml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.AssemblyReference.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard_MarkupCompile.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard_MarkupCompile.lref
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Themes\Generic.baml
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.g.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.Properties.Resources.resources
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.GenerateResource.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.CoreCompileInputs.cache
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.csproj.CopyComplete
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.dll
+D:\Mert's Folders\Ozcelik Software\Photo Order\Photo Order V.2\Photo Order\Chones.Keyboard\obj\Debug\Rife.Keyboard.pdb

@@ -1,0 +1,25 @@
+﻿<Application x:Class="Photo_Order_Customer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Photo_Order_Customer"
+             StartupUri="WindowLanguage.xaml">
+    <Application.Resources>
+        <ResourceDictionary >
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/assets/styles/button.xaml" />
+                <ResourceDictionary Source="/assets/styles/table.xaml" />
+                <ResourceDictionary Source="/assets/styles/textbox.xaml" />
+                <ResourceDictionary Source="/assets/styles/textblock.xaml" />
+                <ResourceDictionary Source="/assets/styles/combobox.xaml" />
+                <ResourceDictionary Source="/assets/styles/grid.xaml" />
+                <ResourceDictionary Source="/assets/styles/tabControl.xaml" />
+                <ResourceDictionary Source="/assets/languages/ru-RU.xaml" />
+                <ResourceDictionary Source="/assets/languages/en-US.xaml" />
+                <ResourceDictionary Source="/assets/languages/fr-FR.xaml" />
+                <ResourceDictionary Source="/assets/languages/de-DE.xaml" />
+                <ResourceDictionary Source="/assets/languages/ar-SA.xaml" />
+                <ResourceDictionary Source="/assets/languages/tr-TR.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
